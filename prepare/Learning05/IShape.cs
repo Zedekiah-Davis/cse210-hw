@@ -5,4 +5,5 @@ public interface IShape
     string GetColor();
     
     void SetColor(string color);
+
 }
